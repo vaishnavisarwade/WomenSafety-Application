@@ -1,8 +1,4 @@
-## 📸 Screenshots
+💙 Women Safety Application
 
-![ss1](screenshots/ss1.jpg)
-![ss2](screenshots/ss2.jpg)
-![ss3](screenshots/ss3.jpg)
-![ss4](screenshots/ss4.jpg)
-
+Empowering women’s safety through real-time alerts, location tracking, and emergency communication.
 
