@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "779442766291",
+    "firebase_url": "https://ws-2024-default-rtdb.firebaseio.com",
+    "project_id": "ws-2024",
+    "storage_bucket": "ws-2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779442766291:android:28761e09e22213fff46f26",
+        "android_client_info": {
+          "package_name": "com.india.womansafety_2024"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiR3AoK6nxB8e_69O7lIh72jZpzkmXrRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
