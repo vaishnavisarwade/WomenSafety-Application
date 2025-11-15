@@ -39,7 +39,7 @@ SMS & Location Services
 
 Clone the repository
 
-git clone https://github.com/your-username/WomenSafety-Application.git
+git clone https://github.com/vaishnavisarwade/WomenSafety-Application.git
 
 
 Open in Android Studio
